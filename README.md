@@ -4,8 +4,7 @@
 
 [![Days Completed](https://img.shields.io/badge/Days%20Completed-2-blue)](https://github.com/prodcodebyloki/90_Days_AI_Engineer_Route)
 [![Language](https://img.shields.io/badge/Language-Python%203.12-yellow)](https://python.org)
-[![Follow on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com)
-
+[![Follow on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@prodcodebyloki)
 ---
 
 ## 🎯 The Challenge
