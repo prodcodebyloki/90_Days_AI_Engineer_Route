@@ -119,9 +119,3 @@ Subscribe on YouTube to catch every day of the journey as it happens. New video 
 ## ⚠️ Security Note
 
 Never commit your `.env` file. Add secrets via environment variables only. See `.env.example` for the required keys.
-
----
-
-## 📄 License
-
-[MIT](LICENSE) — use it, learn from it, build on it.
