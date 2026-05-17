@@ -1,6 +1,6 @@
 # LangGraph + LangSmith — Starter Guide
 
-![LangGraph Starter](1800ad.png)
+!![Banner](#1800ad.jpg)
 
 > Build stateful, observable AI agent pipelines from scratch.
 
